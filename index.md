@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is where my home page is.
+Welcome to my site thank you for visiting. This site is currently under development. Please come back once it is up and running.   
